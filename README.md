@@ -1,6 +1,9 @@
 # pg_mag
 PostgreSQL scripts for Microsoft Academic Graph (MAG)
 
+Part of [sql_mag](https://github.com/cchacua/sql_mag).
+
+
 ## Requirements
 In order to use `pg_mag` you need:
 - The MAG raw `txt` files.
@@ -96,4 +99,4 @@ Please report them using Github or feel free to contact me by [email](ccdelgado@
 ### Citing pg_mag in research publications
 If you use these scripts in your research publications, please include the following citation:
 
-Chacua, Christian (2020). pg_mag. PostgreSQL scripts. https://github.com/cchacua/pg_mag
+Chacua, Christian (2020). sql_mag. Microsoft Academic Graph scripts for MySQL and PostgreSQL. https://github.com/cchacua/sql_mag
