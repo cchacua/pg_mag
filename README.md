@@ -99,4 +99,4 @@ Please report them using Github or feel free to contact me by [email](ccdelgado@
 ### Citing pg_mag in research publications
 If you use these scripts in your research publications, please include the following citation:
 
-Chacua, Christian (2020). sql_mag. Microsoft Academic Graph scripts for MySQL and PostgreSQL. https://github.com/cchacua/sql_mag
+Chacua, Christian (2020). [sql_mag](https://github.com/cchacua/sql_mag). MySQL and PostgreSQL scripts for Microsoft Academic Graph. https://github.com/cchacua/sql_mag
