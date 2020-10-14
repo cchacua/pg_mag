@@ -91,7 +91,7 @@ Please refer to my [mysql_mag](https://github.com/cchacua/mysql_mag) repository.
 
 ### Questions, issues...
 
-Please report them using Github or feel free to contact me by [email](ccdelgado@u-bordeaux.fr). Feel free to fork this repository and submit your contributions.
+Please report them using Github or feel free to contact me by [email](ccdelgado@u-bordeaux.fr). Feel free to fork this repository and submit your contributions/pull requests.
 
 ### Citing pg_mag in research publications
 If you use these scripts in your research publications, please include the following citation:
