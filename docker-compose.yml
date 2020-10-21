@@ -4,6 +4,7 @@ services:
   db:
     image: postgis/postgis:13-3.0
     restart: always
+    shm_size: 4gb
     ports:
       - 5432:5432
     environment:
